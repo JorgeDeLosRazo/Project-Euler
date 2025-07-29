@@ -1,4 +1,8 @@
 /*
+    PROBLEM STATEMENT: If we list all the natural numbers below 10 that are multiples of 3 or 5, 
+    we get 3, 5, 6, and 9. The sum of these multiples is 23.
+    Find the sum of all the multiples of 3 or 5 below 1000.
+
     THOUGHT PROCESS: We can parse through all the natural numbers n (0 <= n < 1000) and store all the values
     that are either mutliples of 3 or multiples of 5. Very simple when using code but it can also be done without
     writing a script.
