@@ -12,7 +12,6 @@
 int main(){
     const int NUMS = 1000;
     int mults_of_three_or_five = 0;
-    int mults_of_fifteen = 0;
     int sum = 0;
 
     for(int i = 0; i < NUMS; i++){
